@@ -1,4 +1,4 @@
-h1. Jogo Um Contra Todos
+h1. Jogo Um Contra o Resto
 
 Desenvolvido pela "jeKnowledge":http://jeknowledge.pt.
 
