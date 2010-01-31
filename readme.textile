@@ -4,16 +4,15 @@ Desenvolvido pela "jeKnowledge":http://jeknowledge.
 
 h2. To Do
 
- # Definir modelo de dados: Perguntas, Categorias...
- # Configurar administração para os modelos de dados criados
- # Página para que jogo começar (nível, categoria...)
- # Jogo propriamente:
-
-#* Mostrar uma pergunta (a de contador menor, por exemplo)
-#* Registar que foi utilizada recentemente (incrementar um contador, por exemplo)
-#* Aceitar uma resposta
-#* Actualizar pontuação
-#* Terminar jogo se for a última perguntar, senão recomeçar com outra pergunta
+# Definir modelo de dados: Perguntas, Categorias...
+# Configurar administração para os modelos de dados criados
+# Página para que jogo começar (nível, categoria...)
+# Jogo propriamente:
+** Mostrar uma pergunta (a de contador menor, por exemplo)
+** Registar que foi utilizada recentemente (incrementar um contador, por exemplo)
+** Aceitar uma resposta
+** Actualizar pontuação
+** Terminar jogo se for a última perguntar, senão recomeçar com outra pergunta
 
 
 h2. Tarefas suplementares
