@@ -9,11 +9,11 @@ h2. To Do
  # Página para que jogo começar (nível, categoria...)
  # Jogo propriamente:
 
-   * Mostrar uma pergunta (a de contador menor, por exemplo)
-   * Registar que foi utilizada recentemente (incrementar um contador, por exemplo)
-   * Aceitar uma resposta
-   * Actualizar pontuação
-   * Terminar jogo se for a última perguntar, senão recomeçar com outra pergunta
+#* Mostrar uma pergunta (a de contador menor, por exemplo)
+#* Registar que foi utilizada recentemente (incrementar um contador, por exemplo)
+#* Aceitar uma resposta
+#* Actualizar pontuação
+#* Terminar jogo se for a última perguntar, senão recomeçar com outra pergunta
 
 
 h2. Tarefas suplementares
