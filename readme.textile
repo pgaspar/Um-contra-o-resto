@@ -1,6 +1,6 @@
 h1. Jogo Um Contra Todos
 
-Desenvolvido pela "jeKnowledge":http://jeknowledge.
+Desenvolvido pela "jeKnowledge":http://jeknowledge.pt.
 
 h2. To Do
 
